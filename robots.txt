@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /php/
+
+Sitemap: http://localhost/85estate/sitemap.xml
